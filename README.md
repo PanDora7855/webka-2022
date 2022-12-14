@@ -1,6 +1,6 @@
-# Проект: WebPlace
+# Проект: Petsina
 
-Студенческий Проект (интернет-магазин WebPlace) реализован в рамках программы Веб-Технологии МАИ.
+Студенческий Проект (гостиница для собак Petsina) реализован в рамках программы Веб-Технологии МАИ.
 
 ## Технологии, которые использовались
 
@@ -26,9 +26,9 @@
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»](https://www.figma.com/file/zkQfa1xCb2mEgTugprYxf6/WebPlace)
+[«Макет Проекта»](https://www.figma.com/file/KLh2u1tI1cM1cMswYxvy9w/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3?t=b6JJ541ibsYDuX4k-6)
 
 
 ### Посмотреть сайт можно по ссылке ↓
 
-[«Сам Проект»](https://maroonskull.github.io/WebPlace/)
+[«Сам Проект»](https://maroonskull.github.io/Petsina/)
